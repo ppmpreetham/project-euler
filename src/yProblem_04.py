@@ -12,3 +12,5 @@ months = {
     "nov": 30,
     "dec": 31
 }
+for i,j in months.items:
+    
