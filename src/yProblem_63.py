@@ -9,7 +9,7 @@ def n_power(n):
         else:
             i+=1
 
-total=0
+total=0 
 for i in range(10000):
     if n_power(i):
         total+=1
